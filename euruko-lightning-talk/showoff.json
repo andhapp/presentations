@@ -1,0 +1,7 @@
+{
+  "name": "DTrace",
+  "description": "Presentation for Surrey Ruby User Group (SRUG) describing the process behind creating a Gem.",
+  "sections": [
+    {"section":"June-2012"}
+  ]
+}

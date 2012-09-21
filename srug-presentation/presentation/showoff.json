@@ -1,0 +1,7 @@
+{
+  "name": "Creating a RubyGem.",
+  "description": "Presentation for Surrey Ruby User Group (SRUG) describing the process behind creating a Gem.",
+  "sections": [
+    {"section":"march-2011"}
+  ]
+}

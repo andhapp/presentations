@@ -1,0 +1,30 @@
+body {
+  color: #fff;
+}
+
+.content {
+  font-family: Arial;
+}
+
+.content h1 {
+  font-family: Arial;
+}
+
+.slide {
+  background-color: #3a3a3b;
+}
+
+.title-slide {
+  font: 20px Arial bold;
+}
+
+.midSizeList ul {
+  font: 32px Arial;
+}
+
+.structure p {
+  text-align: left;
+  font: 24px Arial;
+  margin:1px auto;
+  width: 300px;
+}

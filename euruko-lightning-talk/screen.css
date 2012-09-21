@@ -1,0 +1,41 @@
+body {
+  color: #fff;
+}
+
+.content {
+  color: #3A3A3B;
+  font-family: Merriweather;
+}
+
+.content h1 {
+  font-size: 69px;
+  font-family: Merriweather;
+}
+
+.content > ul {
+  font-size: 36px;
+  font-family: Merriweather;
+}
+
+.content > pre {
+  font-size: 29px;
+}
+
+.slide {
+  background-color: #fff;
+}
+
+.title-slide {
+  font: 20px Merriweather bold;
+}
+
+.midSizeList ul {
+  font: 32px Merriweather;
+}
+
+.structure p {
+  text-align: left;
+  font: 24px Merriweather;
+  margin:1px auto;
+  width: 300px;
+}
