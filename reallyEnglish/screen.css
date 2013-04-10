@@ -1,0 +1,60 @@
+body {
+  background: #291F14;
+}
+
+.content {
+  color: #fff;
+  font-family: Merriweather;
+}
+
+.content h1 {
+  font-size: 80px;
+  font-family: Merriweather;
+}
+
+.content > ul {
+  font-size: 36px;
+  font-family: Merriweather;
+}
+
+.content > pre {
+  font-size: 29px;
+}
+
+#preso {
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+
+.slide {
+  background-color: #291F14;
+}
+
+.title-slide {
+  font: 20px Merriweather bold;
+}
+
+.midSizeList ul {
+  font: 32px Merriweather;
+}
+
+.structure p {
+  text-align: left;
+  font: 24px Merriweather;
+  margin:1px auto;
+  width: 300px;
+}
+
+#footer {
+  position: absolute;
+  bottom:10px;
+}
+
+.ruby {
+  color: #FF3762;
+}
+
+.smallImage {
+  margin-top: -120px !important;
+}

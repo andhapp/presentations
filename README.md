@@ -8,9 +8,15 @@ Presentation at Surrey Ruby user group on 'Creating a gem'.
 
 ## June 2012
 
-Lighting talk at Euruko on Dtrace.
+Lighting talk at Euruko on DTrace.
 
 
 ## September 2012
 
-______ talk at ReallyEnglish developer week.
+DTrace + Ruby talk at ReallyEnglish developer week.
+
+
+## October 2012
+
+Slightly modified DTrace + Ruby talk at LRUG.
+
